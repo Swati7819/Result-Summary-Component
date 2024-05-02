@@ -112,6 +112,11 @@
 
 }
 
+.btn:hover{
+    background-color: rgb(70,54,241);
+    cursor: pointer;
+}
+
 
 @media screen and (min-width:601px) {
 
